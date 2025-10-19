@@ -11,7 +11,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="${typescriptLogo}" class="logo vanilla" alt="TypeScript logo" />
     </a>
-    <h1>Ross's Website</h1>
+    <h1>Ross's Website yupdated</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
